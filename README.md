@@ -16,7 +16,7 @@
 This repo contains related resources of PandaGPT.
 
 This repo contains
-- The <a href='#weights'>weights</a> for the fine-tuned model.
+- The <a href='#weights'>delta weights</a> for the fine-tuned model.
 - The <a href='#data'>data</a> used for fine-tuning the model.
 - The <a href='#example_usage'>example usage</a> of OpenAlpaca.
 - The <a href='#code'>code</a> for fine-tuning the model.
