@@ -29,6 +29,8 @@ Then, you should download the delta weights of Vicuna provided by the original a
 |**Model Size**|**Delta Weights Address**|**Version**|
 |:-------------:|:-------------:|:-------------:|
 |7B|[[Link]](https://huggingface.co/lmsys/vicuna-7b-delta-v0)|0|
+|13B|[[Link]](https://huggingface.co/lmsys/vicuna-13b-delta-v0)|0|
+
 
 
 > **** After conversion, the directory should look like:
