@@ -24,7 +24,7 @@ The language decoder of PandaGPT is based on Vicuna version 0. Given the distrib
 
 ## 1.2. Obtain the Delta Weights of Vicuna:
 
-Then, you should download the delta weights of Vicuna provided by the original authors. You can find the corresponding link in the table below.
+Then, you should download the delta weights of Vicuna provided by the original authors. You can find the corresponding links to 7B/13B Vicuna models in the table below.
 
 |**Model Size**|**Delta Weights Address**|**Version**|
 |:-------------:|:-------------:|:-------------:|
