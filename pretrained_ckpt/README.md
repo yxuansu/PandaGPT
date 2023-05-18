@@ -1,6 +1,6 @@
 # 1. Prepare Vicuna Checkpoint:
 
-The language decoder of PandaGPT-4 is based on Vicuna version 0. Given the distribution license of LLaMA, you need to restore the weights of Vicuna manually. To restore the weights, please follow the instructions below. In the following, we showcase how to restore the 7B version of Vicuna v0. The procedures to obtain 13B version of Vicuna are similar.
+The language decoder of PandaGPT is based on Vicuna version 0. Given the distribution license of LLaMA, you need to restore the weights of Vicuna manually. To restore the weights, please follow the instructions below. In the following, we showcase how to restore the 7B version of Vicuna v0. To obtain the 13B version of Vicuna, you can take similar procedures. 
 
 ## 1.1. Obtain LLaMA Weights:
 * Request the weights of LLaMA from Meta using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform).
