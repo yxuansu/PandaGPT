@@ -22,3 +22,24 @@ This repo contains
 - The <a href='#code'>code</a> for fine-tuning the model.
 
 **Usage and License Notices:**
+
+
+****
+
+<span id='weights'/>
+
+# Model Weights:
+
+|**Model Size**|**Learning Tasks**|**Delta Weights Address**|
+|:-------------:|:-------------:|:-------------:|
+|7B|Image Captioning|[openllmplayground/pandagpt_7b_v0_image_captioning_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_image_captioning_only)|
+|7B|Visual Instruction||
+|7B|Image Captioning + Visual Instruction||
+|13B|Image Captioning||
+|13B|Visual Instruction||
+|13B|Image Captioning + Visual Instruction||
+
+|**Model Name**|**Model Card**|**Model Description**|
+|:-------------:|:-------------:|:-------------:|
+|`openllmplayground/openalpaca_7b_preview_2bt`|[[Link]](https://huggingface.co/openllmplayground/openalpaca_7b_preview_2bt/)|```The OpenAlpaca model fine-tuned from the previewed version of OpenLLaMA that is trained with 200 billion tokens.```|
+|`openllmplayground/openalpaca_7b_preview_3bt`|[[Link]](https://huggingface.co/openllmplayground/openalpaca_7b_preview_3bt/)|```The OpenAlpaca model fine-tuned from the previewed version of OpenLLaMA that is trained with 300 billion tokens.```|
