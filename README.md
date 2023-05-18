@@ -33,8 +33,8 @@ This repo contains
 |**Model Size**|**Learning Tasks**|**Delta Weights Address**|
 |:-------------:|:-------------:|:-------------:|
 |7B|Image Captioning|[openllmplayground/pandagpt_7b_v0_image_captioning_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_image_captioning_only)|
-|7B|Visual Instruction||
-|7B|Image Captioning + Visual Instruction||
+|7B|Visual Instruction|[openllmplayground/pandagpt_7b_v0_visual_instruction_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_visual_instruction_only)|
+|7B|Image Captioning + Visual Instruction|[openllmplayground/pandagpt_7b_v0](https://huggingface.co/openllmplayground/pandagpt_7b_v0)|
 |13B|Image Captioning||
 |13B|Visual Instruction||
 |13B|Image Captioning + Visual Instruction||
