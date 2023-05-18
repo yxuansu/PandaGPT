@@ -28,7 +28,7 @@ This repo contains
 
 <span id='weights'/>
 
-# Delta Model Weights of PandaGPT:
+# Delta Weights of PandaGPT:
 
 |**Model Size**|**Learning Tasks**|**Delta Weights Address**|
 |:-------------:|:-------------:|:-------------:|
