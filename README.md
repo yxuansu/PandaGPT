@@ -30,13 +30,13 @@ This repo contains
 
 # Delta Weights of PandaGPT:
 
-|**Model Size**|**Learning Tasks**|**Delta Weights Address**|
+|**Base Language Model**|**Learning Tasks**|**Delta Weights Address**|
 |:-------------:|:-------------:|:-------------:|
-|7B|Image Captioning|[openllmplayground/pandagpt_7b_v0_image_captioning_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_image_captioning_only)|
-|7B|Visual Instruction|[openllmplayground/pandagpt_7b_v0_visual_instruction_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_visual_instruction_only)|
-|7B|Image Captioning + Visual Instruction|[openllmplayground/pandagpt_7b_v0](https://huggingface.co/openllmplayground/pandagpt_7b_v0)|
-|13B|Image Captioning|[openllmplayground/pandagpt_13b_v0_image_captioning_only](https://huggingface.co/openllmplayground/pandagpt_13b_v0_image_captioning_only)|
-|13B|Visual Instruction|[openllmplayground/pandagpt_13b_v0_visual_instruction_only](https://huggingface.co/openllmplayground/pandagpt_13b_v0_visual_instruction_only)|
-|13B|Image Captioning + Visual Instruction||
+|Vicuna-7B (version 0)|Image Captioning|[openllmplayground/pandagpt_7b_v0_image_captioning_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_image_captioning_only)|
+|Vicuna-7B (version 0)|Visual Instruction|[openllmplayground/pandagpt_7b_v0_visual_instruction_only](https://huggingface.co/openllmplayground/pandagpt_7b_v0_visual_instruction_only)|
+|Vicuna-7B (version 0)|Image Captioning + Visual Instruction|[openllmplayground/pandagpt_7b_v0](https://huggingface.co/openllmplayground/pandagpt_7b_v0)|
+|Vicuna-13B (version 0)|Image Captioning|[openllmplayground/pandagpt_13b_v0_image_captioning_only](https://huggingface.co/openllmplayground/pandagpt_13b_v0_image_captioning_only)|
+|Vicuna-13B (version 0)|Visual Instruction|[openllmplayground/pandagpt_13b_v0_visual_instruction_only](https://huggingface.co/openllmplayground/pandagpt_13b_v0_visual_instruction_only)|
+|Vicuna-13B (version 0)|Image Captioning + Visual Instruction||
 
 
