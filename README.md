@@ -31,6 +31,8 @@ This repo contains
 * <a href='#introduction'>1. Introduction</a>
 * <a href='#environment'>2. Environment Setup and Model Weights Preparation</a>
     * <a href='#install_environment'>2.1. Environment Installation</a>
+    * <a href='#download_imagebind_model'>2.2. Download ImageBind Model</a>
+    * <a href='#download_vicuna_model'>2.3. Download Vicuna Model</a>
 
 ****
 
