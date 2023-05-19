@@ -206,7 +206,7 @@ PandaGPT is intended and licensed for research use only. The dataset is CC BY NC
 ### Acknowledgments:
 
 
-This repo benefits from [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca), [LLaVA](https://github.com/haotian-liu/LLaVA), and [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4). Thanks for their wonderful works!
+This repo benefits from [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca), [ImageBind](https://github.com/facebookresearch/ImageBind), [LLaVA](https://github.com/haotian-liu/LLaVA), and [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4). Thanks for their wonderful works!
 
 
 
