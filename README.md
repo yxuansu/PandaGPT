@@ -87,6 +87,14 @@ To prepare the pre-trained Vicuna model, please follow the instructions provided
 
 We release the delta weights of PandaGPT trained with different strategies in the table above. After downloading, put the downloaded file (pytorch_model.pt) in the [[./pretrained_ckpt/pandagpt_ckpt/]](./pretrained_ckpt/pandagpt_ckpt/) directory.
 
+<span id='running_demo'/>
+
+##### 2.5. Deploying Demo:
+Upon completion of previous steps, you can run the demo as
+```bash
+python web_demo.py
+```
+
 
 
 
