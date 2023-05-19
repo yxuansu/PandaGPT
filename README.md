@@ -10,15 +10,6 @@
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 
 
-This repo contains related resources of PandaGPT.
-
-This repo contains
-- The <a href='#weights'>delta weights</a> for the fine-tuned model.
-- The <a href='#data'>data</a> used for fine-tuning the model.
-- The <a href='#example_usage'>example usage</a> of OpenAlpaca.
-- The <a href='#code'>code</a> for fine-tuning the model.
-
-**Usage and License Notices:** PandaGPT is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes. The delta weights are also CC BY NC 4.0 (allowing only non-commercial use).
 
 ****
 
@@ -36,7 +27,8 @@ This repo contains
     * <a href='#data_preparation'>3.1. Data Preparation</a>
     * <a href='#training_configurations'>3.2. Training Configurations</a>
     * <a href='#model_training'>3.3. Training PandaGPT</a>
- * <a href='#acknowledgments'>Acknowledgments</a>
+* <a href='#license'>Usage and License Notices</a>
+* <a href='#acknowledgments'>Acknowledgments</a>
 
 ****
 
@@ -197,6 +189,14 @@ The key arguments of the training script are as follows:
 
 Note that the `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_2.json](./code/dsconfig/openllama_peft_stage_2.json) should be set as 2 and 4 for 7B model, and set as 1 and 8 for 13B model.
 
+
+****
+
+<span id='license'/>
+
+### Usage and License Notices:
+
+PandaGPT is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes. The delta weights are also CC BY NC 4.0 (allowing only non-commercial use).
 
 
 ****
