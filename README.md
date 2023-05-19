@@ -10,9 +10,6 @@
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 
 
-**Team:** [Yixuan Su](https://yxuansu.github.io/), [Tian Lan](https://github.com/gmftbyGMFTBY), [Huayang Li](https://sites.google.com/view/huayangli), [Deng Cai](https://jcyk.github.io/) 
-
-
 This repo contains related resources of PandaGPT.
 
 This repo contains
