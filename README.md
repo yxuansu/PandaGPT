@@ -18,7 +18,7 @@ This repo contains
 - The <a href='#example_usage'>example usage</a> of OpenAlpaca.
 - The <a href='#code'>code</a> for fine-tuning the model.
 
-**Usage and License Notices:**
+**Usage and License Notices:** PandaGPT is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes. The delta weights are also CC BY NC 4.0 (allowing only non-commercial use).
 
 ****
 
