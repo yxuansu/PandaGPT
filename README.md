@@ -27,7 +27,7 @@ This repo contains
 
 <span id='all_catelogue'/>
 
-### Catalogue:
+## Catalogue:
 * <a href='#introduction'>1. Introduction</a>
 * <a href='#environment'>2. Running PandaGPT Demo</a>
     * <a href='#install_environment'>2.1. Environment Installation</a>
@@ -40,17 +40,17 @@ This repo contains
 
 <span id='introduction'/>
 
-#### 1. Introduction: <a href='#all_catelogue'>[Back to Top]</a>
+### 1. Introduction: <a href='#all_catelogue'>[Back to Top]</a>
 
 ****
 
 <span id='environment'/>
 
-#### 2. Running PandaGPT Demo: <a href='#all_catelogue'>[Back to Top]</a>
+### 2. Running PandaGPT Demo: <a href='#all_catelogue'>[Back to Top]</a>
 
 <span id='install_environment'/>
 
-##### 2.1. Environment Installation:
+#### 2.1. Environment Installation:
 To install the required environment, please run
 ```
 pip install -r requirements.txt
@@ -63,18 +63,18 @@ pip install torch==1.13.1+cu117 -f https://download.pytorch.org/whl/torch/
 
 <span id='download_imagebind_model'/>
 
-##### 2.2. Prepare ImageBind Checkpoint:
+#### 2.2. Prepare ImageBind Checkpoint:
 You can download the pre-trained ImageBind model using [this link](https://dl.fbaipublicfiles.com/imagebind/imagebind_huge.pth). After downloading, put the downloaded file (imagebind_huge.pth) in [[./pretrained_ckpt/imagebind_ckpt/]](./pretrained_ckpt/imagebind_ckpt/) directory. 
 
 <span id='download_vicuna_model'/>
 
-##### 2.3. Prepare Vicuna Checkpoint:
+#### 2.3. Prepare Vicuna Checkpoint:
 To prepare the pre-trained Vicuna model, please follow the instructions provided [[here]](./pretrained_ckpt#1-prepare-vicuna-checkpoint).
 
 
 <span id='download_pandagpt'/>
 
-##### 2.4. Prepare Delta Weights of PandaGPT:
+#### 2.4. Prepare Delta Weights of PandaGPT:
 
 |**Base Language Model**|**Learning Tasks**|**Huggingface Delta Weights Address**|
 |:-------------:|:-------------:|:-------------:|
@@ -89,7 +89,7 @@ We release the delta weights of PandaGPT trained with different strategies in th
 
 <span id='running_demo'/>
 
-##### 2.5. Deploying Demo:
+#### 2.5. Deploying Demo:
 Upon completion of previous steps, you can run the demo as
 ```bash
 cd ./code/
