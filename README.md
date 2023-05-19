@@ -29,11 +29,12 @@ This repo contains
 
 ### Catalogue:
 * <a href='#introduction'>1. Introduction</a>
-* <a href='#environment'>2. Environment Setup and Model Weights Preparation</a>
+* <a href='#environment'>2. Running PandaGPT Demo</a>
     * <a href='#install_environment'>2.1. Environment Installation</a>
     * <a href='#download_imagebind_model'>2.2. Prepare ImageBind Checkpoint</a>
     * <a href='#download_vicuna_model'>2.3. Prepare Vicuna Checkpoint</a>
     * <a href='#download_pandagpt'>2.4. Prepare Delta Weights of PandaGPT</a>
+    * <a href='#running_demo'>2.5. Deploying Demo</a>
 
 ****
 
@@ -45,7 +46,7 @@ This repo contains
 
 <span id='environment'/>
 
-#### 2. Environment Setup and Model Weights Preparation: <a href='#all_catelogue'>[Back to Top]</a>
+#### 2. Running PandaGPT Demo: <a href='#all_catelogue'>[Back to Top]</a>
 
 <span id='install_environment'/>
 
@@ -63,7 +64,7 @@ pip install torch==1.13.1+cu117 -f https://download.pytorch.org/whl/torch/
 <span id='download_imagebind_model'/>
 
 ##### 2.2. Prepare ImageBind Checkpoint:
-You can download the pre-trained ImageBind model using [this link](https://dl.fbaipublicfiles.com/imagebind/imagebind_huge.pth). After downloading, put the downloaded file (imagebind_huge.pth) in [./pretrained_ckpt/imagebind_ckpt/](./pretrained_ckpt/imagebind_ckpt/) directory. 
+You can download the pre-trained ImageBind model using [this link](https://dl.fbaipublicfiles.com/imagebind/imagebind_huge.pth). After downloading, put the downloaded file (imagebind_huge.pth) in [[./pretrained_ckpt/imagebind_ckpt/]](./pretrained_ckpt/imagebind_ckpt/) directory. 
 
 <span id='download_vicuna_model'/>
 
@@ -84,6 +85,8 @@ To prepare the pre-trained Vicuna model, please follow the instructions provided
 |Vicuna-13B (version 0)|Visual Instruction|[openllmplayground/pandagpt_13b_v0_visual_instruction_only](https://huggingface.co/openllmplayground/pandagpt_13b_v0_visual_instruction_only)|
 |Vicuna-13B (version 0)|Image Captioning + Visual Instruction|[openllmplayground/pandagpt_13b_v0](https://huggingface.co/openllmplayground/pandagpt_13b_v0/)|
 
-We release the delta weights of PandaGPT trained with different strategies in the table above. After downloading, put the downloaded file (pytorch_model.pt) in the [./pretrained_ckpt/pandagpt_ckpt/](./pretrained_ckpt/pandagpt_ckpt/) directory.
+We release the delta weights of PandaGPT trained with different strategies in the table above. After downloading, put the downloaded file (pytorch_model.pt) in the [[./pretrained_ckpt/pandagpt_ckpt/]](./pretrained_ckpt/pandagpt_ckpt/) directory.
+
+
 
 
