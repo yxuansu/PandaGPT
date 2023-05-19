@@ -157,13 +157,22 @@ The table below show the training hyperparameters used in our experiments. The h
 
 #### 3.3. Training PandaGPT:
  
-To train the model, please run the following commands.
+To train the first stage model, please run the following commands.
 ```yaml
 cd ./code/scripts/
 chmod +x train_stage_1.sh
 cd ..
 ./scripts/train_stage_1.sh
 ```
+
+The key arguments of the training script are as follows:
+* `--stage`: The stage number.
+* `--data_path`: The data path for the json file `pandagpt4_stage_1_data.json`.
+* `--image_root_path`: The root path for the downloaded images.
+* `--imagebind_ckpt_path`: The path where saves the ImageBind checkpoint `imagebind_huge.pth`.
+* `--vicuna_ckpt_path`: The directory that saves the pre-trained Vicuna checkpoints.
+* `--max_tgt_len`: The maximum length of training instances.
+* `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
   
 
 
