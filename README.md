@@ -34,7 +34,7 @@ This repo contains
     * <a href='#running_demo'>2.5. Deploying Demo</a>
 * <a href='#train_pandagpt'>3. Train Your Own PandaGPT</a>
     * <a href='#data_preparation'>3.1. Data Preparation</a>
-    * <a href='#model_training'>3.2. Training the Model</a>
+    * <a href='#model_training'>3.2. Training PandaGPT</a>
 
 ****
 
@@ -135,7 +135,7 @@ After downloading, put the downloaded file and unzip them under the [[./data/]](
               
 <span id='model_training'/>
 
-#### 3.2. Training the Model:
+#### 3.2. Training PandaGPT:
                 
 To train the model, please follow the instructions provided [here](./code/).
 
