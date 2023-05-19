@@ -113,7 +113,9 @@ python web_demo.py
 |1|Image Captioning|[openllmplayground/PandaGPT4_Stage_1_Data](https://huggingface.co/datasets/openllmplayground/PandaGPT4_Stage_1_Data)|
 |2|Visual Instruction|[openllmplayground/PandaGPT4_Stage_2_Data](https://huggingface.co/datasets/openllmplayground/PandaGPT4_Stage_2_Data)|
 
-> **** After downloading, put the downloaded file and unzip them under the [./data/] directory, the directory should look like:
+After downloading, put the downloaded file and unzip them under the [./data/] directory.
+
+> **** The directory should look like:
 
     .
     └── ./data/ 
