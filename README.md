@@ -34,7 +34,8 @@ This repo contains
     * <a href='#running_demo'>2.5. Deploying Demo</a>
 * <a href='#train_pandagpt'>3. Train Your Own PandaGPT</a>
     * <a href='#data_preparation'>3.1. Data Preparation</a>
-    * <a href='#model_training'>3.2. Training PandaGPT</a>
+    * <a href='#training_configurations'>3.2. Training Configurations</a>
+    * <a href='#model_training'>3.3. Training PandaGPT</a>
 
 ****
 
@@ -134,11 +135,14 @@ After downloading, put the downloaded file and unzip them under the [[./data/]](
                 ├── 000000306060.jpg
                 └── ...
               
-<span id='model_training'/>
+
+<span id='training_configurations'/>
 
 #### 3.2 Training Configurations:
 
 The table below show the training hyperparameters used in our experiments. The hyperparameters are selected based on the constrain of our computational resources, i.e. 8 x A100 (40G) GPUs.
+
+<span id='model_training'/>
 
 #### 3.2. Training PandaGPT:
                 
