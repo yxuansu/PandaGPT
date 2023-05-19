@@ -92,6 +92,7 @@ We release the delta weights of PandaGPT trained with different strategies in th
 ##### 2.5. Deploying Demo:
 Upon completion of previous steps, you can run the demo as
 ```bash
+cd ./code/
 python web_demo.py
 ```
 
