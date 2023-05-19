@@ -106,7 +106,7 @@ python web_demo.py
 
 #### 3.1. Data Preparation:
 
-**[Dataset Delaration]** To ensure the reproducibility of our results, we have released our training datasets. The datasets must be used for research purpose only. The use of the datasets must comply with the licenses from original sources. These datasets may be taken down when requested by the original authors.
+**Dataset Delaration:** To ensure the reproducibility of our results, we have released our training datasets. The datasets must be used for research purpose only. The use of the datasets must comply with the licenses from original sources. These datasets may be taken down when requested by the original authors.
 
 |**Stage Number**|**Learning Task**|**Dataset Address**|
 |:-------------:|:-------------:|:-------------:|
