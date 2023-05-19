@@ -155,8 +155,15 @@ The table below show the training hyperparameters used in our experiments. The h
 
 
 
-#### 3.2. Training PandaGPT:
-                
+#### 3.3. Training PandaGPT:
+ 
+To train the model, please run the following commands.
+```yaml
+cd ./code/scripts/
+chmod +x train_stage_1.sh
+cd ..
+./scripts/train_stage_1.sh
+```
   
 
 
