@@ -174,7 +174,9 @@ The key arguments of the training script are as follows:
 * `--max_tgt_len`: The maximum length of training instances.
 * `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
 
-The epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file.
+The epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file. Also note that the `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_1.json](./code/dsconfig/openllama_peft_stage_1.json) should be set as 16 and 2 for 7B model, and set as 4 and 8 for 13B model.
+
+and for 7B and 13B models should be set as 16, 2 
   
 
 
