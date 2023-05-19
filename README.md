@@ -33,6 +33,7 @@ This repo contains
     * <a href='#download_pandagpt'>2.4. Prepare Delta Weights of PandaGPT</a>
     * <a href='#running_demo'>2.5. Deploying Demo</a>
 * <a href='#train_pandagpt'>3. Train Your Own PandaGPT</a>
+    * <a href='#data_preparation'>3.1. Data Preparation</a>
 
 ****
 
@@ -99,6 +100,13 @@ python web_demo.py
 <span id='train_pandagpt'/>
 
 ### 3. Train Your Own PandaGPT: <a href='#all_catelogue'>[Back to Top]</a>
+
+
+<span id='data_preparation'/>
+
+#### 3.1. Data Preparation:
+
+
 
 
 
