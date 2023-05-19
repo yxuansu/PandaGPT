@@ -2,7 +2,7 @@
 ## Instructions on Training PandaGPT:
 
 ### 1. Prerequisites:
-Before training the model, making sure the environment is properly installed and the checkpoints of ImageBind and Vicuna are downloaded. You can refer to [here](../PandaGPT#2-running-pandagpt-demo-back-to-top) for more information.
+Before training the model, making sure the environment is properly installed and the checkpoints of ImageBind and Vicuna are downloaded. You can refer to [here](https://github.com/yxuansu/PandaGPT#2-running-pandagpt-demo-back-to-top) for more information.
 
 # Data Preparation:
 
