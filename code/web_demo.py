@@ -139,9 +139,9 @@ with gr.Blocks() as demo:
 
             gr.Examples(
                 [ 
-                    os.path.join(os.path.dirname(__file__), "./assets/images/bird_image.jpg"),
-                    os.path.join(os.path.dirname(__file__), "./assets/images/dog_image.jpg"),
-                    os.path.join(os.path.dirname(__file__), "./assets/images/car_image.jpg"),
+                    os.path.join(os.path.dirname(__file__), "/assets/images/bird_image.jpg"),
+                    os.path.join(os.path.dirname(__file__), "/assets/images/dog_image.jpg"),
+                    os.path.join(os.path.dirname(__file__), "/assets/images/car_image.jpg"),
                 ],
                 image_path
             )
@@ -149,9 +149,9 @@ with gr.Blocks() as demo:
             audio_path = gr.Audio(type="filepath", label="Audio", value=None)
             gr.Examples(
                 [ 
-                    os.path.join(os.path.dirname(__file__), "./assets/audios/bird_audio.wav"),
-                    os.path.join(os.path.dirname(__file__), "./assets/audios/dog_audio.wav"),
-                    os.path.join(os.path.dirname(__file__), "./assets/audios/car_audio.wav"),
+                    os.path.join(os.path.dirname(__file__), "/assets/audios/bird_audio.wav"),
+                    os.path.join(os.path.dirname(__file__), "/assets/audios/dog_audio.wav"),
+                    os.path.join(os.path.dirname(__file__), "/assets/audios/car_audio.wav"),
                 ],
                 audio_path
             )
@@ -161,8 +161,8 @@ with gr.Blocks() as demo:
 
             gr.Examples(
                 [ 
-                    os.path.join(os.path.dirname(__file__), "./assets/videos/world.mp4"),
-                    os.path.join(os.path.dirname(__file__), "./assets/videos/a.mp4"),
+                    os.path.join(os.path.dirname(__file__), "/assets/videos/world.mp4"),
+                    os.path.join(os.path.dirname(__file__), "/assets/videos/a.mp4"),
                 ],
                 video_path
             )
@@ -171,8 +171,8 @@ with gr.Blocks() as demo:
 
             gr.Examples(
                 [ 
-                    os.path.join(os.path.dirname(__file__), "./assets/thermals/190662.jpg"),
-                    os.path.join(os.path.dirname(__file__), "./assets/thermals/210009.jpg"),
+                    os.path.join(os.path.dirname(__file__), "/assets/thermals/190662.jpg"),
+                    os.path.join(os.path.dirname(__file__), "/assets/thermals/210009.jpg"),
                 ],
                 thermal_path
             )
