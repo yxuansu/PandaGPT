@@ -23,6 +23,26 @@ This repo contains
 
 **Usage and License Notices:**
 
+****
+
+<span id='all_catelogue'/>
+
+### Catalogue:
+* <a href='#introduction'>1. Introduction</a>
+* <a href='#environment'>2. Environment Setup and Model Weights Preparation</a>
+
+****
+
+<span id='introduction'/>
+
+#### 1. Introduction: <a href='#all_catelogue'>[Back to Top]</a>
+
+****
+
+<span id='environment'/>
+
+#### 2. Environment Setup and Model Weights Preparation: <a href='#all_catelogue'>[Back to Top]</a>
+
 
 ****
 
