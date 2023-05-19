@@ -173,6 +173,8 @@ The key arguments of the training script are as follows:
 * `--vicuna_ckpt_path`: The directory that saves the pre-trained Vicuna checkpoints.
 * `--max_tgt_len`: The maximum length of training instances.
 * `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
+
+The epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file.
   
 
 
