@@ -11,7 +11,7 @@ import json
 args = {
     'model': 'openllama_peft',
     'imagebind_ckpt_path': '../pretrained_ckpt/imagebind_ckpt/',
-    'vicuna_ckpt_path': '../pretrained_ckpt/vicuna_ckpt/7b_v0',
+    'vicuna_ckpt_path': '../pretrained_ckpt/vicuna_ckpt/7b_v0/',
     'delta_ckpt_path': '../pretrained_ckpt/pandagpt_ckpt/pytorch_model.pt',
     'stage': 2,
     'max_tgt_len': 128,
