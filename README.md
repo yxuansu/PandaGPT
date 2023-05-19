@@ -30,6 +30,7 @@ This repo contains
 ### Catalogue:
 * <a href='#introduction'>1. Introduction</a>
 * <a href='#environment'>2. Environment Setup and Model Weights Preparation</a>
+    * <a href='#install_environment'>2.1. Environment Installation</a>
 
 ****
 
@@ -42,6 +43,20 @@ This repo contains
 <span id='environment'/>
 
 #### 2. Environment Setup and Model Weights Preparation: <a href='#all_catelogue'>[Back to Top]</a>
+
+<span id='install_environment'/>
+
+##### 2.1. Environment Installation:
+To install the required environment, please run
+```
+pip install -r requirements.txt
+```
+
+Then install the Pytorch package with the correct cuda version, for example
+```
+pip install torch==1.13.1+cu117 -f https://download.pytorch.org/whl/torch/
+```
+
 
 
 ****
