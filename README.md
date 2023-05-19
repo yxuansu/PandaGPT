@@ -64,6 +64,11 @@ pip install torch==1.13.1+cu117 -f https://download.pytorch.org/whl/torch/
 ##### 2.2. Prepare ImageBind Checkpoint:
 You can download the pre-trained ImageBind model using [this link](https://dl.fbaipublicfiles.com/imagebind/imagebind_huge.pth). After downloading, put the downloaded file (imagebind_huge.pth) in [./pretrained_ckpt/imagebind_ckpt/](./pretrained_ckpt/imagebind_ckpt/) directory. 
 
+<span id='download_vicuna_model'/>
+
+##### 2.3. Prepare Vicuna Checkpoint:
+To prepare the pre-trained Vicuna model, please follow the instructions provided [[here]](./pretrained_ckpt#1-prepare-vicuna-checkpoint).
+
 
 
 ****
