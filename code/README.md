@@ -1,4 +1,9 @@
 
+## Instructions on Training PandaGPT:
+
+### 1. Prerequisites:
+Before training the model, making sure the environment is properly installed and the checkpoints of ImageBind and Vicuna are downloaded. You can refer to [here](../PandaGPT#2-running-pandagpt-demo-back-to-top) for more information.
+
 # Data Preparation:
 
 Download all files from [this link](https://huggingface.co/datasets/openllmplayground/PandaGPT4_Stage_1) and put all required files under [./data/stage_1](./data/stage_1).
