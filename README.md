@@ -36,6 +36,7 @@ This repo contains
     * <a href='#data_preparation'>3.1. Data Preparation</a>
     * <a href='#training_configurations'>3.2. Training Configurations</a>
     * <a href='#model_training'>3.3. Training PandaGPT</a>
+ * <a href='#acknowledgments'>Acknowledgments</a>
 
 ****
 
@@ -195,6 +196,17 @@ The key arguments of the training script are as follows:
 * `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
 
 Note that the `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_2.json](./code/dsconfig/openllama_peft_stage_2.json) should be set as 2 and 4 for 7B model, and set as 1 and 8 for 13B model.
+
+
+
+****
+
+<span id='acknowledgments'/>
+
+### Acknowledgments:
+
+
+This repo benefits from [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca), [LLaVA](https://github.com/haotian-liu/LLaVA), and [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4). Thanks for their wonderful works!
 
 
 
