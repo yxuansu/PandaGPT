@@ -32,6 +32,7 @@ This repo contains
     * <a href='#download_vicuna_model'>2.3. Prepare Vicuna Checkpoint</a>
     * <a href='#download_pandagpt'>2.4. Prepare Delta Weights of PandaGPT</a>
     * <a href='#running_demo'>2.5. Deploying Demo</a>
+* <a href='#train_pandagpt'>3. Train Your Own PandaGPT</a>
 
 ****
 
@@ -92,6 +93,14 @@ Upon completion of previous steps, you can run the demo as
 cd ./code/
 python web_demo.py
 ```
+
+****
+
+<span id='train_pandagpt'/>
+
+### 3. Train Your Own PandaGPT: <a href='#all_catelogue'>[Back to Top]</a>
+
+
 
 
 
