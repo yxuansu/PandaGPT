@@ -157,7 +157,7 @@ The table below show the training hyperparameters used in our experiments. The h
 
 #### 3.3. Training PandaGPT:
  
-**Stage 1 Training:** To train the first stage model, please run the following commands.
+**[Stage 1 Training]** To train the first stage model, please run the following commands.
 ```yaml
 cd ./code/scripts/
 chmod +x train_stage_1.sh
@@ -176,7 +176,7 @@ The key arguments of the training script are as follows:
 
 The epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file. Also note that the `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_1.json](./code/dsconfig/openllama_peft_stage_1.json) should be set as 16 and 2 for 7B model, and set as 4 and 8 for 13B model.
 
-**Stage 2 Training:** To train the second stage model, please run the following commands:
+**[Stage 2 Training]** To train the second stage model, please run the following commands:
 ```yaml
 cd ./code/scripts/
 chmod +x train_stage_2.sh
@@ -184,7 +184,6 @@ cd ..
 ./scripts/train_stage_2.sh
 ```
 
-The key arguments of the training script are as follows:
 The key arguments of the training script are as follows:
 * `--stage`: The stage number.
 * `--data_path`: The data path for the json file `pandagpt4_stage_1_data.json`.
@@ -195,15 +194,6 @@ The key arguments of the training script are as follows:
 * `--max_tgt_len`: The maximum length of training instances.
 * `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
 
-
-and for 7B and 13B models should be set as 16, 2 
-  
-
-
-
-
-                
-To train the model, please follow the instructions provided [here](./code/).
 
 
  
