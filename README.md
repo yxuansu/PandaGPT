@@ -102,6 +102,7 @@ python web_demo.py
 
 ### 3. Train Your Own PandaGPT: <a href='#all_catelogue'>[Back to Top]</a>
 
+**Prerequisites:** Before training the model, making sure the environment is properly installed and the checkpoints of ImageBind and Vicuna are downloaded. You can refer to [here](https://github.com/yxuansu/PandaGPT#2-running-pandagpt-demo-back-to-top) for more information.  
 
 <span id='data_preparation'/>
 
@@ -135,7 +136,17 @@ After downloading, put the downloaded file and unzip them under the [[./data/]](
               
 <span id='model_training'/>
 
+#### 3.2 Training Configurations:
+
+The table below show the training hyperparameters used in our experiments. The hyperparameters are selected based on the constrain of our computational resources, i.e. 8 x A100 (40G) GPUs.
+
 #### 3.2. Training PandaGPT:
+                
+  
+
+
+
+
                 
 To train the model, please follow the instructions provided [here](./code/).
 
