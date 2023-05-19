@@ -31,8 +31,8 @@ This repo contains
 * <a href='#introduction'>1. Introduction</a>
 * <a href='#environment'>2. Environment Setup and Model Weights Preparation</a>
     * <a href='#install_environment'>2.1. Environment Installation</a>
-    * <a href='#download_imagebind_model'>2.2. Download ImageBind Model</a>
-    * <a href='#download_vicuna_model'>2.3. Download Vicuna Model</a>
+    * <a href='#download_imagebind_model'>2.2. Prepare ImageBind Checkpoint</a>
+    * <a href='#download_vicuna_model'>2.3. Prepare Vicuna Checkpoint</a>
 
 ****
 
@@ -58,6 +58,11 @@ Then install the Pytorch package with the correct cuda version, for example
 ```
 pip install torch==1.13.1+cu117 -f https://download.pytorch.org/whl/torch/
 ```
+
+<span id='download_imagebind_model'/>
+
+##### 2.2. Prepare ImageBind Checkpoint:
+You can download the pre-trained ImageBind model using [this link](https://dl.fbaipublicfiles.com/imagebind/imagebind_huge.pth). After downloading, put the downloaded file in 
 
 
 
