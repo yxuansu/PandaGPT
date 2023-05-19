@@ -142,7 +142,15 @@ After downloading, put the downloaded file and unzip them under the [[./data/]](
 
 The table below show the training hyperparameters used in our experiments. The hyperparameters are selected based on the constrain of our computational resources, i.e. 8 x A100 (40G) GPUs.
 
+|**Base Language Model**|**Training Task**|**Dataset Address**|
+|:-------------:|:-------------:|:-------------:|
+||||
+
+
+
 <span id='model_training'/>
+
+
 
 #### 3.2. Training PandaGPT:
                 
