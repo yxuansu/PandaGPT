@@ -37,6 +37,8 @@
 
 ### 1. Introduction: <a href='#all_catelogue'>[Back to Top]</a>
 
+PandaGPT, the first foundation model capable of following instructions using data across six modalities, including (1) image/video; (2) audio; (3) text; (4) depth; (5) heat map; and (6) IMU.
+
 ****
 
 <span id='environment'/>
