@@ -10,7 +10,7 @@
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 
 
-[[Project Page]()] [[Paper]()] [[Demo]()] [[Data](<a href='#data_preparation'></a>)] [[Model]()]
+[[Project Page]()] [[Paper]()] [[Demo]()] [[Data]()] [[Model]()]
 
 ****
 
