@@ -4,6 +4,10 @@
 
 # PandaGPT: Empowering Large Language Models with Visual and Auditory Intelligence
 
+# PandaGPT: One Foundation Model To Instruction-Follow Them ALL.
+
+IMAGEBIND: One Embedding Space To Bind Them All.
+
 ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)
 ![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)
 ![Model Weight License](https://img.shields.io/badge/Model_Weight%20License-CC%20By%20NC%204.0-red.svg)
