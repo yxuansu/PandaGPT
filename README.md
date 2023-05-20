@@ -4,7 +4,7 @@
 
 # PandaGPT: Empowering Large Language Models with Visual and Auditory Intelligence
 
-# PandaGPT: One Foundation Model To Instruction-Follow Them ALL.
+# PandaGPT: One Foundation Model To Instruction-Follow Them ALL
 
 IMAGEBIND: One Embedding Space To Bind Them All.
 
