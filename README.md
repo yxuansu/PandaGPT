@@ -41,6 +41,8 @@
 
 PandaGPT, the first AI foundation model capable of following instructions using data across six modalities, including (1) image/video; (2) audio; (3) text; (4) depth; (5) heat map; and (6) IMU.
 
+The first foundation model capable of instruction-following data across six modalities, including (1) image/video; (2) audio; (3) text; (4) depth; (5) heat map; and (6) IMU.
+
 ****
 
 <span id='environment'/>
