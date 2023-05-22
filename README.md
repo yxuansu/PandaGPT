@@ -81,7 +81,7 @@ To prepare the pre-trained Vicuna model, please follow the instructions provided
 |Vicuna-13B (version 0)|256|[openllmplayground/pandagpt_13b_max_len_256](https://huggingface.co/openllmplayground/pandagpt_13b_max_len_256)|
 |Vicuna-13B (version 0)|400|[openllmplayground/pandagpt_13b_max_len_400](https://huggingface.co/openllmplayground/pandagpt_13b_max_len_400)|
 
-We release the delta weights of PandaGPT trained with different strategies in the table above. After downloading, put the downloaded file (pytorch_model.pt) in the [[./pretrained_ckpt/pandagpt_ckpt/]](./pretrained_ckpt/pandagpt_ckpt/) directory. In our online demo, we use the 13B PandaGPT with maximum length of 400 as our default model.
+We release the delta weights of PandaGPT trained with different strategies in the table above. After downloading, put the downloaded file (pytorch_model.pt) in the [[./pretrained_ckpt/pandagpt_ckpt/]](./pretrained_ckpt/pandagpt_ckpt/) directory. In our online demo, we use the `openllmplayground/pandagpt_13b_max_len_400` as our default model.
 
 <span id='running_demo'/>
 
