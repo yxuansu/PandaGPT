@@ -141,48 +141,25 @@ The table below show the training hyperparameters used in our experiments. The h
 <span id='model_training'/>
 
 
-
 #### 3.3. Training PandaGPT:
  
-**[Stage 1 Training]** To train the first stage model, please run the following commands.
+To train PandaGPT, please run the following commands:
 ```yaml
 cd ./code/scripts/
-chmod +x train_stage_1.sh
+chmod +x train.sh
 cd ..
-./scripts/train_stage_1.sh
+./scripts/train.sh
 ```
 
 The key arguments of the training script are as follows:
-* `--stage`: The stage number.
-* `--data_path`: The data path for the json file `pandagpt4_stage_1_data.json`.
+* `--data_path`: The data path for the json file `pandagpt4_visual_instruction_data.json`.
 * `--image_root_path`: The root path for the downloaded images.
 * `--imagebind_ckpt_path`: The path where saves the ImageBind checkpoint `imagebind_huge.pth`.
 * `--vicuna_ckpt_path`: The directory that saves the pre-trained Vicuna checkpoints.
 * `--max_tgt_len`: The maximum length of training instances.
 * `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
 
-The epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file. Also note that the `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_1.json](./code/dsconfig/openllama_peft_stage_1.json) should be set as `16` and `2` for 7B model, and set as `4` and `8` for 13B model.
-
-**[Stage 2 Training]** To train the second stage model, please run the following commands:
-```yaml
-cd ./code/scripts/
-chmod +x train_stage_2.sh
-cd ..
-./scripts/train_stage_2.sh
-```
-
-The key arguments of the training script are as follows:
-* `--stage`: The stage number.
-* `--data_path`: The data path for the json file `pandagpt4_stage_1_data.json`.
-* `--image_root_path`: The root path for the downloaded images.
-* `--imagebind_ckpt_path`: The path where saves the ImageBind checkpoint `imagebind_huge.pth`.
-* `--vicuna_ckpt_path`: The directory that saves the pre-trained Vicuna checkpoints.
-* `--delta_ckpt_path`: The directory that saves the delta weights obtained from stage 1. It should be `{stage_1_save_path}/pytorch_model.pt`.
-* `--max_tgt_len`: The maximum length of training instances.
-* `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
-
-Note that the `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_2.json](./code/dsconfig/openllama_peft_stage_2.json) should be set as `2` and `4` for 7B model, and set as `1` and `8` for 13B model.
-
+Note that the epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file. The `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_1.json](./code/dsconfig/openllama_peft_stage_1.json) should be set as `2` and `4` for 7B model, and set as `1` and `8` for 13B model.
 
 ****
 
