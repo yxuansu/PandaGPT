@@ -108,10 +108,9 @@ python web_demo.py
 
 **Declaimer:** To ensure the reproducibility of our results, we have released our training datasets. The datasets must be used for research purpose only. The use of the datasets must comply with the licenses from original sources. These datasets may be taken down when requested by the original authors.
 
-|**Stage**|**Training Task**|**Dataset Address**|
-|:-------------:|:-------------:|:-------------:|
-|1|Image Captioning|[openllmplayground/PandaGPT4_Stage_1_Data](https://huggingface.co/datasets/openllmplayground/PandaGPT4_Stage_1_Data)|
-|2|Visual Instruction|[openllmplayground/PandaGPT4_Stage_2_Data](https://huggingface.co/datasets/openllmplayground/PandaGPT4_Stage_2_Data)|
+|**Training Task**|**Dataset Address**|
+|:-------------:|:-------------:|
+|Visual Instruction|[openllmplayground/pandagpt_visual_instruction_dataset](https://huggingface.co/datasets/openllmplayground/pandagpt_visual_instruction_dataset)|
 
 After downloading, put the downloaded file and unzip them under the [[./data/]](./data/) directory.
 
@@ -119,18 +118,11 @@ After downloading, put the downloaded file and unzip them under the [[./data/]](
 
     .
     └── ./data/ 
-        └── /stage_1/  
-            ├── pandagpt4_stage_1_data.json
-            └── /images/
-                ├── GCC_train_002582585.jpg
-                ├── GCC_train_002429825.jpg
-                └── ...
-        └── /stage_2/ 
-            ├── pandagpt4_visual_instruction_data.json
-            └── /images/
-                ├── 000000426538.jpg
-                ├── 000000306060.jpg
-                └── ...
+         ├── pandagpt4_visual_instruction_data.json
+         └── /images/
+             ├── 000000426538.jpg
+             ├── 000000306060.jpg
+             └── ...
               
 
 <span id='training_configurations'/>
