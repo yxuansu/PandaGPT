@@ -2,7 +2,7 @@
 <img src="./pandagpt.png" alt="PandaGPT-4" style="width: 40%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-# PandaGPT: One Foundation Model To Instruction-Follow Them All
+# PandaGPT: Empowering Large Language Models with Visual and Auditory Understanding
 
 ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)
 ![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)
