@@ -109,7 +109,7 @@ def predict(
     modality_cache, 
 ):
     if image_path is None and audio_path is None and video_path is None and thermal_path is None:
-        return [(input, "There is no input data provided. Please upload your data and start the conversation!")]
+        return [(input, "There is no input data provided! Please upload your data and start the conversation.")]
     else:
         print(f'[!] image path: {image_path}\n[!] audio path: {audio_path}\n[!] video path: {video_path}\n[!] thermal path: {thermal_path}')
 
