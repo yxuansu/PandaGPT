@@ -124,7 +124,7 @@ pip install --editable ./
 |:-------------:|:-------------:|
 |Visual Instruction-Following|[openllmplayground/pandagpt_visual_instruction_dataset](https://huggingface.co/datasets/openllmplayground/pandagpt_visual_instruction_dataset)|
 
-After downloading, put the downloaded file and unzip them under the [[./data/]](./data/) directory.
+After downloading, put the downloaded file and unzip them under the [./data/](./data/) directory.
 
 > **** The directory should look like:
 
