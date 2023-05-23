@@ -44,6 +44,8 @@
 <img src="./PandaGPT.png" alt="PandaGPT-4" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
+The icons in this image are from [this website](https://www.flaticon.com).
+
 PandaGPT is the first foundation model capable of instruction-following data across six modalities, without the need of explicit supervision. It demonstrates a diverse set of multimodal capabilities such as complex understanding/reasoning, knowledge-grounded description, and multi-turn conversation.
 
 
