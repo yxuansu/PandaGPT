@@ -7,7 +7,7 @@
 ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)
 ![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)
 ![Model Weight License](https://img.shields.io/badge/Model_Weight%20License-CC%20By%20NC%204.0-red.svg)
-![Python 3.8+](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 
 [[Project Page](https://panda-gpt.github.io/)] [[Paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf)] [[Video](https://www.youtube.com/watch?v=96XgdQle7EY)] [[Demo]()] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
