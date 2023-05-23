@@ -118,11 +118,11 @@ pip install --editable ./
 
 #### 3.1. Data Preparation:
 
-**Declaimer:** To ensure the reproducibility of our results, we have released our training datasets. The datasets must be used for research purpose only. The use of the datasets must comply with the licenses from original sources. These datasets may be taken down when requested by the original authors.
+**Declaimer:** To ensure the reproducibility of our results, we have released our training dataset. The dataset must be used for research purpose only. The use of the dataset must comply with the licenses from original sources, i.e. LLaVA and MiniGPT-4. These datasets may be taken down when requested by the original authors.
 
 |**Training Task**|**Dataset Address**|
 |:-------------:|:-------------:|
-|Visual Instruction|[openllmplayground/pandagpt_visual_instruction_dataset](https://huggingface.co/datasets/openllmplayground/pandagpt_visual_instruction_dataset)|
+|Visual Instruction-Following|[openllmplayground/pandagpt_visual_instruction_dataset](https://huggingface.co/datasets/openllmplayground/pandagpt_visual_instruction_dataset)|
 
 After downloading, put the downloaded file and unzip them under the [[./data/]](./data/) directory.
 
