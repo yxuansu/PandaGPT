@@ -10,7 +10,7 @@
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 
 
-[[Project Page](https://panda-gpt.github.io/)] [[Paper]()] [[Demo]()] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
+[[Project Page](https://panda-gpt.github.io/)] [[Paper]()] [[Video]](https://www.youtube.com/watch?v=96XgdQle7EY)[[Demo]()] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
 
 ****
 
