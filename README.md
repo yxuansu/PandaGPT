@@ -12,6 +12,8 @@
 
 [[Project Page](https://panda-gpt.github.io/)] [[Paper]()] [[Video]](https://www.youtube.com/watch?v=96XgdQle7EY)[[Demo]()] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
 
+
+**Team:** [Yixuan Su](https://yxuansu.github.io/)<sup>\*</sup>, [Tian Lan](https://github.com/gmftbyGMFTBY)<sup>\*</sup>, [Huayang Li](https://sites.google.com/view/huayangli), Jialu Xu, Yan Wang, and [Deng Cai](https://jcyk.github.io/)<sup>\*</sup> (Members<sup>\*</sup> are major contributors.)
 ****
 
 <span id='all_catelogue'/>
