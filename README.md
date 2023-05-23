@@ -99,7 +99,7 @@ cd ./code/
 CUDA_VISIBLE_DEVICES=0 python web_demo.py
 ```
 
-If you running into `sample_rate` problem, please git upload Pytorchvideo from the source as
+If you running into `sample_rate` problem, please git install `pytorchvideo` from the source as
 ```yaml
 git clone https://github.com/facebookresearch/pytorchvideo
 cd pytorchvideo
