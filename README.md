@@ -95,7 +95,14 @@ We release the delta weights of PandaGPT trained with different strategies in th
 Upon completion of previous steps, you can run the demo as
 ```bash
 cd ./code/
-python web_demo.py
+CUDA_VISIBLE_DEVICES=0 python web_demo.py
+```
+
+If you running into `sample_rate` problem, please git upload Pytorchvideo from the source as
+```yaml
+git clone https://github.com/facebookresearch/pytorchvideo
+cd pytorchvideo
+pip install --editable ./
 ```
 
 ****
