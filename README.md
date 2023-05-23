@@ -10,7 +10,7 @@
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 
-[[Project Page](https://panda-gpt.github.io/)] [[Paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf)] [[Video](https://www.youtube.com/watch?v=96XgdQle7EY)] [[Demo]()] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
+[[Project Page](https://panda-gpt.github.io/)] [[Paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf)] [[Video](https://www.youtube.com/watch?v=96XgdQle7EY)] [[Demo](https://huggingface.co/spaces/GMFTBY/PandaGPT)] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
 
 
 **Team:** [Yixuan Su](https://yxuansu.github.io/)<sup>\*</sup>, [Tian Lan](https://github.com/gmftbyGMFTBY)<sup>\*</sup>, [Huayang Li](https://sites.google.com/view/huayangli)<sup>\*</sup>, Jialu Xu, Yan Wang, and [Deng Cai](https://jcyk.github.io/)<sup>\*</sup> (Major contributors<sup>\*</sup>)
