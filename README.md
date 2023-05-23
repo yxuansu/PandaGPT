@@ -13,7 +13,7 @@
 [[Project Page](https://panda-gpt.github.io/)] [[Paper]()] [[Video](https://www.youtube.com/watch?v=96XgdQle7EY)] [[Demo]()] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
 
 
-**Team:** [Yixuan Su](https://yxuansu.github.io/)<sup>\*</sup>, [Tian Lan](https://github.com/gmftbyGMFTBY)<sup>\*</sup>, [Huayang Li](https://sites.google.com/view/huayangli), Jialu Xu, Yan Wang, and [Deng Cai](https://jcyk.github.io/)<sup>\*</sup> (Major contributors<sup>\*</sup>.)
+**Team:** [Yixuan Su](https://yxuansu.github.io/)<sup>\*</sup>, [Tian Lan](https://github.com/gmftbyGMFTBY)<sup>\*</sup>, [Huayang Li](https://sites.google.com/view/huayangli), Jialu Xu, Yan Wang, and [Deng Cai](https://jcyk.github.io/)<sup>\*</sup> (Major contributors<sup>\*</sup>)
 ****
 
 <span id='all_catelogue'/>
@@ -179,6 +179,22 @@ Note that the epoch number can be set in the `epochs` argument at [./code/config
 ### Usage and License Notices:
 
 PandaGPT is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes. The delta weights are also CC BY NC 4.0 (allowing only non-commercial use).
+
+
+****
+
+<span id='citation'/>
+
+### Citation:
+
+If you found PandaGPT useful in your research or applications, please kindly cite using the following BibTeX:
+```
+@article{pandagpt,
+  title={PandaGPT: One Model To Instruction-Follow Them All},
+  author={Yixuan Su and Tian Lan and Huayang Li and Jialu Xu and Yan Wang and Deng Cai},
+  year={2023}
+}
+```
 
 
 ****
