@@ -31,6 +31,7 @@
     * <a href='#training_configurations'>3.2. Training Configurations</a>
     * <a href='#model_training'>3.3. Training PandaGPT</a>
 * <a href='#license'>Usage and License Notices</a>
+* <a href='#citation'>Citation</a>
 * <a href='#acknowledgments'>Acknowledgments</a>
 
 ****
