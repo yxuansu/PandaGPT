@@ -81,7 +81,7 @@ To prepare the pre-trained Vicuna model, please follow the instructions provided
 
 #### 2.4. Prepare Delta Weights of PandaGPT:
 
-|**Base Language Model**|**Maximum Length**|**Huggingface Delta Weights Address**|
+|**Base Language Model**|**Maximum Sequence Length**|**Huggingface Delta Weights Address**|
 |:-------------:|:-------------:|:-------------:|
 |Vicuna-7B (version 0)|512|[openllmplayground/pandagpt_7b_max_len_512](https://huggingface.co/openllmplayground/pandagpt_7b_max_len_512)|
 |Vicuna-7B (version 0)|1024|[openllmplayground/pandagpt_7b_max_len_1024](https://huggingface.co/openllmplayground/pandagpt_7b_max_len_1024)|
