@@ -168,7 +168,7 @@ The key arguments of the training script are as follows:
 * `--image_root_path`: The root path for the downloaded images.
 * `--imagebind_ckpt_path`: The path where saves the ImageBind checkpoint `imagebind_huge.pth`.
 * `--vicuna_ckpt_path`: The directory that saves the pre-trained Vicuna checkpoints.
-* `--max_tgt_len`: The maximum length of training instances.
+* `--max_tgt_len`: The maximum sequence length of training instances.
 * `--save_path`: The directory which saves the trained delta weights. This directory will be automatically created.
 
 Note that the epoch number can be set in the `epochs` argument at [./code/config/openllama_peft.yaml](./code/config/openllama_peft.yaml) file. The `train_micro_batch_size_per_gpu` and `gradient_accumulation_steps` arguments in [./code/dsconfig/openllama_peft_stage_1.json](./code/dsconfig/openllama_peft_stage_1.json) should be set as `2` and `4` for 7B model, and set as `1` and `8` for 13B model.
