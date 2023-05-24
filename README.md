@@ -22,8 +22,10 @@
 ## Online Demo Example:
 
 <p align="center" width="100%">
-<img src="./pandagpt.png" alt="PandaGPT-4" style="width: 40%; min-width: 300px; display: block; margin: auto;">
+<img src="./online_demo.jpg" alt="PandaGPT-4" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
+
+Example of our online demo where PandaGPT takes the input from two modalities, i.e. (1) an image of car and (2) an audio of thunderstorm.
 
 
 ****
