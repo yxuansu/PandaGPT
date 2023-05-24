@@ -19,7 +19,7 @@
 
 ****
 
-## Online Demo Example:
+## Online Demo Demonstration:
 
 <p align="center" width="100%">
 <img src="./online_demo.jpg" alt="PandaGPT-4" style="width: 100%; min-width: 300px; display: block; margin: auto;">
