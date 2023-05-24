@@ -10,7 +10,9 @@
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 
-[[Project Page](https://panda-gpt.github.io/)] [[Paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf)] [[Video](https://www.youtube.com/watch?v=96XgdQle7EY)] [[Demo](https://huggingface.co/spaces/GMFTBY/PandaGPT)] [[Data](https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation)] [[Model](https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt)]
+<p align="left">
+   🌐 <a href="https://panda-gpt.github.io/" target="_blank">Project Page</a> • 🤗 <a href="https://huggingface.co/spaces/GMFTBY/PandaGPT" target="_blank">Online Demo</a> • 📃 <a href="https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf" target="_blank">Paper</a> •  ⏬ <a href="https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation" target="_blank">Data</a> • 🤖 <a href="https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt" target="_blank">Model</a> • 📹 <a href="https://www.youtube.com/watch?v=96XgdQle7EY" target="_blank">Video</a>
+</p>
 
 
 **Team:** [Yixuan Su](https://yxuansu.github.io/)<sup>\*</sup>, [Tian Lan](https://github.com/gmftbyGMFTBY)<sup>\*</sup>, [Huayang Li](https://sites.google.com/view/huayangli)<sup>\*</sup>, Jialu Xu, Yan Wang, and [Deng Cai](https://jcyk.github.io/)<sup>\*</sup> (Major contributors<sup>\*</sup>)
