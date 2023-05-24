@@ -25,7 +25,7 @@
 <img src="./online_demo.jpg" alt="PandaGPT-4" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-Demonstration of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT) where PandaGPT takes the input from two modalities, i.e. (1) an image of car and (2) an audio of thunderstorm. For more generated examples of PandaGPT, please refer to our [webpage](https://panda-gpt.github.io/) or our [paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf).
+Demonstration of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT) in which PandaGPT takes the joint input from two modalities, i.e. (1) an image of car and (2) an audio of thunderstorm. For more generated examples of PandaGPT, please refer to our [webpage](https://panda-gpt.github.io/) or our [paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf).
 
 
 ****
