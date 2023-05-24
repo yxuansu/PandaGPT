@@ -25,7 +25,7 @@
 <img src="./online_demo.jpg" alt="PandaGPT-4" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-Demonstration of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT) in which PandaGPT takes the joint input from two modalities, i.e. (1) an image of car and (2) an audio of thunderstorm. For more generated examples of PandaGPT, please refer to our [webpage](https://panda-gpt.github.io/) or our [paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf).
+Demonstration of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT) in which PandaGPT takes the joint input from two modalities, i.e. (1) an <b>image</b> 👀 of car and (2) an <b>audio</b>👂 of thunderstorm. For more generated examples of PandaGPT, please refer to our [webpage](https://panda-gpt.github.io/) or our [paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf).
 
 
 ****
@@ -60,7 +60,10 @@ Demonstration of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT
 
 **License** The icons in the image are from [this website](https://www.flaticon.com).
 
+
 PandaGPT is the first foundation model capable of instruction-following data across six modalities, without the need of explicit supervision. It demonstrates a diverse set of multimodal capabilities such as complex understanding/reasoning, knowledge-grounded description, and multi-turn conversation.
+
+PandaGPT is a general-purpose instruction-following model that can both <b>see 👀</b> and <b>hear👂</b>. Our pilot experiments show that PandaGPT can perform complex tasks such as detailed image description generation, writing stories inspired by videos, and answering questions about audios. More Interestingly, PandaGPT can take multimodal inputs simultaneously and compose their semantics naturally. For example, PandaGPT can connect how objects look in a photo and how they sound in an audio. 
 
 
 ****
