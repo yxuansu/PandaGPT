@@ -16,6 +16,16 @@
 
 
 **Team:** [Yixuan Su](https://yxuansu.github.io/)<sup>\*</sup>, [Tian Lan](https://github.com/gmftbyGMFTBY)<sup>\*</sup>, [Huayang Li](https://sites.google.com/view/huayangli)<sup>\*</sup>, Jialu Xu, Yan Wang, and [Deng Cai](https://jcyk.github.io/)<sup>\*</sup> (Major contributors<sup>\*</sup>)
+
+****
+
+## Online Demo Example:
+
+<p align="center" width="100%">
+<img src="./pandagpt.png" alt="PandaGPT-4" style="width: 40%; min-width: 300px; display: block; margin: auto;">
+</p>
+
+
 ****
 
 <span id='all_catelogue'/>
