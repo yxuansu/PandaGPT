@@ -21,11 +21,19 @@
 
 ## Online Demo Demonstration:
 
+Below, we demonstrate some examples of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT). For more generated examples of PandaGPT, please refer to our [webpage](https://panda-gpt.github.io/) or our [paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf).
+
+<p align="center" width="100%">
+<img src="./demonstration.jpg" alt="PandaGPT-4" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+</p>
+
+(1) In this example, PandaGPT takes an input image and reasons over the user's input.
+
 <p align="center" width="100%">
 <img src="./online_demo.jpg" alt="PandaGPT-4" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-Demonstration of our online [demo](https://huggingface.co/spaces/GMFTBY/PandaGPT) in which PandaGPT takes the joint input from two modalities, i.e. (1) an <b>image</b> 👀 of car and (2) an <b>audio</b>👂 of thunderstorm. For more generated examples of PandaGPT, please refer to our [webpage](https://panda-gpt.github.io/) or our [paper](https://github.com/yxuansu/PandaGPT/blob/main/PandaGPT.pdf).
+(2) In this example, PandaGPT takes the joint input from two modalities, i.e. (1) an <b>image</b> 👀 of car and (2) an <b>audio</b>👂 of thunderstorm. 
 
 
 ****
