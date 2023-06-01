@@ -217,9 +217,10 @@ PandaGPT is intended and licensed for research use only. The dataset is CC BY NC
 
 If you found PandaGPT useful in your research or applications, please kindly cite using the following BibTeX:
 ```
-@article{pandagpt,
+@article{su2023pandagpt,
   title={PandaGPT: One Model To Instruction-Follow Them All},
-  author={Yixuan Su and Tian Lan and Huayang Li and Jialu Xu and Yan Wang and Deng Cai},
+  author={Su, Yixuan and Lan, Tian and Li, Huayang and Xu, Jialu and Wang, Yan and Cai, Deng},
+  journal={arXiv preprint arXiv:2305.16355},
   year={2023}
 }
 ```
