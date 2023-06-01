@@ -11,7 +11,7 @@
 
 
 <p align="left">
-   🌐 <a href="https://panda-gpt.github.io/" target="_blank">Project Page</a> • 🤗 <a href="https://huggingface.co/spaces/GMFTBY/PandaGPT" target="_blank">Online Demo</a> • 🤗 <a href="https://ailabnlp.tencent.com/research_demos/panda_gpt/" target="_blank">Online Demo 2 (Runs fast for users from mainland China)</a> • 📃 <a href="http://arxiv.org/abs/2305.16355" target="_blank">Paper</a> •  ⏬ <a href="https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation" target="_blank">Data</a> • 🤖 <a href="https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt" target="_blank">Model</a> • 📹 <a href="https://www.youtube.com/watch?v=96XgdQle7EY" target="_blank">Video</a>
+   🌐 <a href="https://panda-gpt.github.io/" target="_blank">Project Page</a> • 🤗 <a href="https://huggingface.co/spaces/GMFTBY/PandaGPT" target="_blank">Online Demo</a> • 🤗 <a href="https://ailabnlp.tencent.com/research_demos/panda_gpt/" target="_blank">Online Demo-2 (Runs fast for users from mainland China)</a> • 📃 <a href="http://arxiv.org/abs/2305.16355" target="_blank">Paper</a> •  ⏬ <a href="https://github.com/yxuansu/PandaGPT/blob/main/README.md#31-data-preparation" target="_blank">Data</a> • 🤖 <a href="https://github.com/yxuansu/PandaGPT/blob/main/README.md#24-prepare-delta-weights-of-pandagpt" target="_blank">Model</a> • 📹 <a href="https://www.youtube.com/watch?v=96XgdQle7EY" target="_blank">Video</a>
 </p>
 
 
